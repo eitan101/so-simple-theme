@@ -5,6 +5,7 @@ locale: en_US
 description: Describe your website here.
 logo: site-logo.png
 search: true
+url: https://eitan101.github.io/so-simple-theme/
 
 # Jekyll configuration
 
